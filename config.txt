@@ -1,0 +1,9 @@
+// config for local camera
+camera_name = Full HD webcam
+width = 1920
+height = 1080
+framerate = 30
+rtbuffersize=104857600
+bitrate = 4194304
+// do not change the encoder, this program is only for h.265
+encoder= libx265
